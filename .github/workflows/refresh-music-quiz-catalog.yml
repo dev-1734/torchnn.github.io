@@ -39,7 +39,7 @@ jobs:
         run: python music-quiz/validate_catalog.py music-quiz/catalog.json --sample 8 --min-tracks 100
       - name: Commit refreshed public catalog
         run: |
-          if git diff --quiet -- music-quiz/catalog.json; then
+          if [[ -z "$(git status --porcelain -- music-quiz/catalog.json)" ]]; then
             echo "Catalog unchanged"
             exit 0
           fi
