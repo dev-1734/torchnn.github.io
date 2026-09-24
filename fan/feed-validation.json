@@ -2,15 +2,15 @@
   "status": "ok",
   "feed": "/Users/1402_mac/Library/Application Support/FanGallery/state/live/evidence.json",
   "schemaVersion": 2,
-  "generatedAt": "2026-09-24T17:21:06.354913+00:00",
+  "generatedAt": "2026-09-24T21:40:43.053751+00:00",
   "itemCount": 5000,
   "platformCounts": {
-    "instagram": 2898,
-    "x": 2102
+    "instagram": 2768,
+    "x": 2232
   },
   "itemsWithMediaByPlatform": {
-    "instagram": 2898,
-    "x": 1010
+    "instagram": 2768,
+    "x": 1064
   },
   "duplicateIdCount": 0,
   "warnings": [],
