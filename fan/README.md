@@ -4,3 +4,4 @@ Generated automatically by `dev-1734/fan_gallery` after collection and validatio
 
 - `evidence.json`: app-consumable feed (`schemaVersion: 2`)
 - `feed-validation.json`: integrity report for the same publication
+- `evidence.previous.json`: immediately previous feed for rollback
