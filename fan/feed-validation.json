@@ -1,24 +1,24 @@
 {
   "status": "ok",
   "feed": "evidence.json",
-  "feedSha256": "5a674fa8328337f6a791697105d462e3787328bd599acfddcde1231e9d378ee3",
+  "feedSha256": "a8a7a7c1aa8b5efa4bd6a293ee72bbf6bbf298b489b7c57f8279649ed3463926",
   "schemaVersion": 2,
-  "generatedAt": "2026-10-23T19:14:31.222228+00:00",
-  "itemCount": 7026,
-  "sourceItemCount": 7288,
+  "generatedAt": "2026-10-23T23:11:45.110940+00:00",
+  "itemCount": 7038,
+  "sourceItemCount": 7299,
   "platformCounts": {
-    "blind": 109,
-    "pann": 163,
-    "ruliweb": 263,
-    "dcinside": 817,
+    "blind": 110,
+    "pann": 164,
+    "ruliweb": 265,
+    "dcinside": 819,
     "bobaedream": 90,
     "dogdrip": 177,
-    "inven": 215,
-    "clien": 71,
-    "mlbpark": 365,
-    "tiktok": 482,
-    "x": 3291,
-    "instagram": 1227,
+    "inven": 217,
+    "clien": 72,
+    "mlbpark": 367,
+    "tiktok": 488,
+    "x": 3301,
+    "instagram": 1211,
     "fmkorea": 18
   },
   "artistCoverage": {
@@ -83,13 +83,13 @@
       "fmkorea": 1
     },
     "seventeen": {
+      "dcinside": 47,
       "tiktok": 14,
       "x": 163,
       "inven": 2,
       "pann": 10,
       "blind": 1,
       "ruliweb": 9,
-      "dcinside": 47,
       "bobaedream": 2,
       "dogdrip": 3,
       "clien": 1,
@@ -100,7 +100,7 @@
     "stray-kids": {
       "bobaedream": 2,
       "tiktok": 20,
-      "x": 207,
+      "x": 205,
       "inven": 4,
       "blind": 1,
       "pann": 5,
@@ -109,7 +109,7 @@
       "dogdrip": 3,
       "clien": 2,
       "mlbpark": 11,
-      "instagram": 98,
+      "instagram": 82,
       "fmkorea": 1
     },
     "tvxq": {
@@ -333,10 +333,10 @@
       "mlbpark": 2
     },
     "babymonster": {
+      "pann": 1,
       "tiktok": 12,
       "x": 9,
       "blind": 2,
-      "pann": 1,
       "ruliweb": 2,
       "dcinside": 2,
       "bobaedream": 2,
@@ -458,30 +458,30 @@
       "x": 13
     },
     "lim-young-woong": {
-      "tiktok": 4,
-      "x": 14,
+      "blind": 2,
       "pann": 1,
-      "blind": 1,
-      "ruliweb": 1,
-      "dcinside": 1,
+      "ruliweb": 2,
+      "dcinside": 2,
       "bobaedream": 2,
       "dogdrip": 2,
-      "inven": 1,
-      "clien": 1,
-      "mlbpark": 1
+      "inven": 2,
+      "clien": 2,
+      "mlbpark": 2,
+      "tiktok": 4,
+      "x": 14
     },
     "newjeans": {
-      "tiktok": 10,
-      "x": 14,
       "blind": 1,
-      "pann": 1,
-      "ruliweb": 1,
-      "dcinside": 1,
+      "pann": 2,
+      "ruliweb": 2,
+      "dcinside": 2,
       "bobaedream": 2,
       "dogdrip": 2,
-      "inven": 1,
+      "inven": 2,
       "clien": 1,
-      "mlbpark": 1
+      "mlbpark": 2,
+      "tiktok": 10,
+      "x": 14
     },
     "i-dle": {
       "tiktok": 8,
@@ -515,8 +515,8 @@
       "mlbpark": 1
     },
     "the-black-skirts": {
-      "tiktok": 4,
-      "x": 8,
+      "tiktok": 5,
+      "x": 9,
       "blind": 1,
       "ruliweb": 1,
       "dcinside": 1,
@@ -524,8 +524,8 @@
       "mlbpark": 1
     },
     "iu": {
-      "tiktok": 4,
-      "x": 6,
+      "tiktok": 5,
+      "x": 9,
       "blind": 1,
       "pann": 1,
       "ruliweb": 1,
@@ -536,8 +536,8 @@
       "clien": 1
     },
     "jungkook": {
-      "tiktok": 8,
-      "x": 10,
+      "tiktok": 12,
+      "x": 14,
       "blind": 1,
       "pann": 1,
       "ruliweb": 1,
@@ -548,9 +548,9 @@
       "clien": 1
     },
     "crayon-pop": {
-      "mlbpark": 1,
       "tiktok": 4,
-      "x": 6,
+      "x": 10,
+      "mlbpark": 1,
       "blind": 1,
       "pann": 1,
       "ruliweb": 1,
@@ -681,17 +681,17 @@
     }
   },
   "itemsWithMediaByPlatform": {
-    "ruliweb": 48,
-    "dcinside": 22,
+    "pann": 22,
+    "ruliweb": 49,
     "bobaedream": 68,
     "dogdrip": 71,
-    "inven": 40,
-    "clien": 26,
+    "inven": 41,
+    "clien": 27,
+    "tiktok": 488,
+    "x": 1690,
+    "dcinside": 22,
     "mlbpark": 30,
-    "tiktok": 482,
-    "x": 1686,
-    "pann": 21,
-    "instagram": 1227
+    "instagram": 1211
   },
   "duplicateIdCount": 0,
   "duplicateTitleCount": 0,
