@@ -1,24 +1,24 @@
 {
   "status": "ok",
   "feed": "evidence.json",
-  "feedSha256": "ec7054f9791144b72cdbee1d7868a0c80b94163795b85480e8e22ef424f63a4d",
+  "feedSha256": "06d3569bf64987a5b457a08857c20962650cbe7c29e2000d58c47f8acaf3b951",
   "schemaVersion": 2,
-  "generatedAt": "2026-10-25T22:37:36.215302+00:00",
-  "itemCount": 7129,
-  "sourceItemCount": 7380,
+  "generatedAt": "2026-10-26T04:45:45.448989+00:00",
+  "itemCount": 7134,
+  "sourceItemCount": 7385,
   "platformCounts": {
     "blind": 115,
-    "pann": 170,
-    "ruliweb": 278,
-    "dcinside": 838,
+    "pann": 171,
+    "ruliweb": 279,
+    "dcinside": 840,
     "bobaedream": 93,
     "dogdrip": 185,
     "inven": 227,
     "clien": 76,
-    "mlbpark": 380,
-    "tiktok": 580,
-    "x": 3320,
-    "instagram": 1100,
+    "mlbpark": 381,
+    "tiktok": 587,
+    "x": 3314,
+    "instagram": 1099,
     "fmkorea": 18
   },
   "artistCoverage": {
@@ -38,6 +38,7 @@
       "fmkorea": 1
     },
     "bigbang": {
+      "mlbpark": 19,
       "blind": 2,
       "pann": 7,
       "ruliweb": 23,
@@ -45,7 +46,6 @@
       "dogdrip": 10,
       "inven": 20,
       "clien": 3,
-      "mlbpark": 19,
       "tiktok": 16,
       "x": 137,
       "bobaedream": 2,
@@ -53,13 +53,13 @@
       "fmkorea": 1
     },
     "ateez": {
-      "blind": 3,
       "pann": 6,
+      "inven": 4,
+      "blind": 3,
       "ruliweb": 7,
       "dcinside": 48,
       "bobaedream": 2,
       "dogdrip": 3,
-      "inven": 4,
       "clien": 4,
       "mlbpark": 14,
       "tiktok": 20,
@@ -68,43 +68,43 @@
       "fmkorea": 1
     },
     "cortis": {
-      "clien": 3,
-      "dcinside": 48,
-      "mlbpark": 14,
-      "tiktok": 20,
-      "x": 139,
-      "pann": 12,
       "blind": 5,
-      "ruliweb": 4,
-      "bobaedream": 1,
+      "pann": 13,
+      "ruliweb": 5,
+      "dcinside": 49,
       "dogdrip": 3,
       "inven": 1,
+      "clien": 3,
+      "mlbpark": 15,
+      "tiktok": 20,
+      "x": 136,
+      "bobaedream": 1,
       "instagram": 40,
       "fmkorea": 1
     },
     "seventeen": {
-      "pann": 10,
-      "tiktok": 16,
-      "x": 165,
-      "dcinside": 47,
-      "inven": 2,
       "blind": 1,
+      "pann": 11,
       "ruliweb": 9,
+      "dcinside": 48,
       "bobaedream": 2,
       "dogdrip": 3,
+      "inven": 2,
       "clien": 1,
       "mlbpark": 6,
+      "tiktok": 16,
+      "x": 165,
       "instagram": 51,
       "fmkorea": 1
     },
     "stray-kids": {
+      "inven": 4,
+      "mlbpark": 11,
       "bobaedream": 2,
       "pann": 5,
       "dcinside": 32,
-      "mlbpark": 11,
       "tiktok": 25,
       "x": 211,
-      "inven": 4,
       "blind": 1,
       "ruliweb": 5,
       "dogdrip": 3,
@@ -128,6 +128,7 @@
       "fmkorea": 1
     },
     "nct": {
+      "inven": 1,
       "bobaedream": 2,
       "tiktok": 15,
       "x": 145,
@@ -136,7 +137,6 @@
       "ruliweb": 4,
       "dcinside": 23,
       "dogdrip": 2,
-      "inven": 1,
       "clien": 1,
       "mlbpark": 3,
       "instagram": 35,
@@ -160,7 +160,7 @@
     "shinee": {
       "mlbpark": 6,
       "tiktok": 13,
-      "x": 141,
+      "x": 140,
       "blind": 4,
       "pann": 4,
       "ruliweb": 4,
@@ -169,12 +169,12 @@
       "dogdrip": 2,
       "inven": 3,
       "clien": 2,
-      "instagram": 39,
+      "instagram": 38,
       "fmkorea": 1
     },
     "rescene": {
       "tiktok": 14,
-      "x": 151,
+      "x": 129,
       "pann": 23,
       "blind": 28,
       "ruliweb": 48,
@@ -248,6 +248,7 @@
       "fmkorea": 1
     },
     "aespa": {
+      "inven": 20,
       "x": 133,
       "ruliweb": 17,
       "tiktok": 17,
@@ -255,7 +256,6 @@
       "pann": 14,
       "dcinside": 48,
       "bobaedream": 2,
-      "inven": 20,
       "mlbpark": 30,
       "dogdrip": 7,
       "clien": 1,
@@ -263,8 +263,8 @@
       "fmkorea": 1
     },
     "kiiikiii": {
-      "x": 121,
       "tiktok": 15,
+      "x": 121,
       "pann": 1,
       "ruliweb": 1,
       "dcinside": 44,
@@ -384,6 +384,7 @@
       "dogdrip": 1
     },
     "le-sserafim": {
+      "clien": 2,
       "tiktok": 12,
       "x": 18,
       "blind": 2,
@@ -392,7 +393,6 @@
       "dcinside": 2,
       "bobaedream": 2,
       "inven": 2,
-      "clien": 2,
       "mlbpark": 2,
       "dogdrip": 1
     },
@@ -445,6 +445,8 @@
       "dogdrip": 1
     },
     "yena": {
+      "tiktok": 4,
+      "x": 17,
       "blind": 1,
       "pann": 2,
       "ruliweb": 1,
@@ -453,11 +455,11 @@
       "dogdrip": 3,
       "inven": 2,
       "clien": 1,
-      "mlbpark": 2,
-      "tiktok": 3,
-      "x": 13
+      "mlbpark": 2
     },
     "lim-young-woong": {
+      "tiktok": 6,
+      "x": 18,
       "pann": 1,
       "blind": 2,
       "ruliweb": 2,
@@ -466,13 +468,12 @@
       "dogdrip": 2,
       "inven": 2,
       "clien": 2,
-      "mlbpark": 2,
-      "tiktok": 4,
-      "x": 14
+      "mlbpark": 2
     },
     "newjeans": {
       "pann": 2,
-      "tiktok": 10,
+      "tiktok": 12,
+      "x": 18,
       "blind": 1,
       "ruliweb": 2,
       "dcinside": 2,
@@ -480,17 +481,16 @@
       "dogdrip": 2,
       "inven": 2,
       "clien": 1,
-      "mlbpark": 2,
-      "x": 14
+      "mlbpark": 2
     },
     "i-dle": {
+      "tiktok": 10,
+      "x": 18,
       "ruliweb": 2,
       "dcinside": 1,
       "bobaedream": 1,
       "dogdrip": 2,
-      "mlbpark": 2,
-      "tiktok": 8,
-      "x": 14
+      "mlbpark": 2
     },
     "choi-yu-ree": {
       "blind": 2,
@@ -634,12 +634,12 @@
     },
     "nmixx": {
       "pann": 2,
+      "clien": 2,
       "bobaedream": 2,
       "blind": 2,
       "ruliweb": 2,
       "dcinside": 2,
       "inven": 2,
-      "clien": 2,
       "mlbpark": 2,
       "tiktok": 11,
       "x": 10,
@@ -687,16 +687,16 @@
   },
   "itemsWithMediaByPlatform": {
     "pann": 25,
-    "ruliweb": 59,
-    "dcinside": 33,
+    "ruliweb": 60,
+    "dcinside": 35,
     "bobaedream": 70,
     "dogdrip": 79,
+    "clien": 29,
+    "tiktok": 587,
+    "x": 1725,
     "inven": 48,
     "mlbpark": 38,
-    "clien": 29,
-    "tiktok": 580,
-    "x": 1726,
-    "instagram": 1100
+    "instagram": 1099
   },
   "duplicateIdCount": 0,
   "duplicateTitleCount": 0,
