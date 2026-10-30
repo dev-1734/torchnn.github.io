@@ -1,24 +1,24 @@
 {
   "status": "ok",
   "feed": "evidence.json",
-  "feedSha256": "9005181ea31fb810ebee59061123f7a49119ce49e352c90d628166c9c63210de",
+  "feedSha256": "0d967b77dfce32141b8cd545bd5fb8b53887a992e6aa0ed1642dad9a70ca69f3",
   "schemaVersion": 2,
-  "generatedAt": "2026-10-30T00:01:32.791067+00:00",
-  "itemCount": 7254,
-  "sourceItemCount": 7500,
+  "generatedAt": "2026-10-30T05:45:31.364897+00:00",
+  "itemCount": 7258,
+  "sourceItemCount": 7505,
   "platformCounts": {
-    "ruliweb": 294,
-    "bobaedream": 96,
     "blind": 126,
-    "pann": 180,
+    "pann": 181,
+    "ruliweb": 294,
+    "dcinside": 864,
+    "bobaedream": 96,
     "dogdrip": 202,
-    "dcinside": 862,
-    "inven": 243,
+    "inven": 244,
     "clien": 79,
-    "mlbpark": 400,
-    "x": 3352,
+    "mlbpark": 401,
+    "x": 3368,
     "tiktok": 691,
-    "instagram": 957,
+    "instagram": 941,
     "fmkorea": 18
   },
   "artistCoverage": {
@@ -68,9 +68,9 @@
       "fmkorea": 1
     },
     "cortis": {
+      "pann": 13,
       "x": 136,
       "blind": 5,
-      "pann": 13,
       "ruliweb": 5,
       "dcinside": 49,
       "dogdrip": 3,
@@ -98,9 +98,9 @@
       "fmkorea": 1
     },
     "stray-kids": {
+      "x": 216,
       "bobaedream": 2,
       "tiktok": 29,
-      "x": 216,
       "inven": 4,
       "blind": 2,
       "pann": 5,
@@ -218,10 +218,10 @@
       "fmkorea": 1
     },
     "twice": {
+      "x": 148,
       "ruliweb": 15,
       "pann": 15,
       "tiktok": 21,
-      "x": 148,
       "dcinside": 45,
       "blind": 3,
       "bobaedream": 3,
@@ -259,7 +259,7 @@
       "inven": 21,
       "mlbpark": 31,
       "clien": 1,
-      "instagram": 49,
+      "instagram": 38,
       "fmkorea": 1
     },
     "kiiikiii": {
@@ -273,7 +273,7 @@
       "inven": 1,
       "clien": 1,
       "mlbpark": 2,
-      "instagram": 58
+      "instagram": 53
     },
     "fromis-9": {
       "tiktok": 12,
@@ -436,29 +436,29 @@
       "x": 16
     },
     "tuide": {
-      "x": 21,
-      "tiktok": 13,
+      "pann": 3,
+      "mlbpark": 3,
       "blind": 1,
-      "pann": 2,
       "ruliweb": 1,
-      "dcinside": 2,
+      "dcinside": 3,
       "bobaedream": 1,
+      "dogdrip": 1,
       "inven": 1,
-      "mlbpark": 2,
-      "dogdrip": 1
+      "x": 21,
+      "tiktok": 13
     },
     "yena": {
-      "x": 21,
-      "pann": 2,
-      "tiktok": 4,
       "blind": 1,
+      "pann": 3,
       "ruliweb": 1,
-      "dcinside": 2,
+      "dcinside": 3,
       "bobaedream": 2,
       "dogdrip": 3,
-      "inven": 2,
+      "inven": 3,
       "clien": 1,
-      "mlbpark": 2
+      "mlbpark": 3,
+      "x": 21,
+      "tiktok": 4
     },
     "lim-young-woong": {
       "x": 20,
@@ -474,9 +474,9 @@
       "mlbpark": 2
     },
     "newjeans": {
+      "x": 22,
       "pann": 2,
       "tiktok": 12,
-      "x": 18,
       "blind": 1,
       "ruliweb": 2,
       "dcinside": 2,
@@ -487,8 +487,8 @@
       "mlbpark": 2
     },
     "i-dle": {
+      "x": 22,
       "tiktok": 10,
-      "x": 18,
       "ruliweb": 2,
       "dcinside": 1,
       "bobaedream": 1,
@@ -496,8 +496,8 @@
       "mlbpark": 2
     },
     "choi-yu-ree": {
+      "x": 18,
       "tiktok": 2,
-      "x": 14,
       "blind": 2,
       "pann": 1,
       "dogdrip": 2,
@@ -509,9 +509,9 @@
       "mlbpark": 2
     },
     "fifty-fifty": {
+      "x": 16,
       "clien": 1,
       "tiktok": 7,
-      "x": 12,
       "pann": 1,
       "ruliweb": 2,
       "dcinside": 1,
@@ -636,8 +636,8 @@
       "dogdrip": 1
     },
     "nmixx": {
-      "bobaedream": 2,
       "pann": 2,
+      "bobaedream": 2,
       "tiktok": 14,
       "x": 14,
       "clien": 2,
@@ -689,17 +689,17 @@
     }
   },
   "itemsWithMediaByPlatform": {
-    "bobaedream": 72,
-    "pann": 27,
-    "dogdrip": 103,
     "ruliweb": 73,
-    "mlbpark": 52,
-    "dcinside": 50,
+    "dcinside": 52,
+    "bobaedream": 72,
+    "dogdrip": 103,
+    "inven": 62,
     "clien": 31,
-    "x": 1763,
-    "inven": 61,
+    "mlbpark": 53,
+    "x": 1773,
+    "pann": 27,
     "tiktok": 691,
-    "instagram": 957
+    "instagram": 941
   },
   "duplicateIdCount": 0,
   "duplicateTitleCount": 0,
