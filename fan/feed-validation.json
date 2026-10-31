@@ -1,21 +1,21 @@
 {
   "status": "ok",
   "feed": "evidence.json",
-  "feedSha256": "0711c3f9c306e82bf19c4e22d8b1cf4e26d0f5756117a0c897e562fe7b92b2de",
+  "feedSha256": "e06e0ec58e0607cf882f24a9fe35c579ab75ff69c5dca24a22647d10efe0dcb9",
   "schemaVersion": 2,
-  "generatedAt": "2026-10-31T15:46:58.049751+00:00",
-  "itemCount": 7294,
-  "sourceItemCount": 7542,
+  "generatedAt": "2026-10-31T23:24:16.368345+00:00",
+  "itemCount": 7295,
+  "sourceItemCount": 7544,
   "platformCounts": {
+    "dcinside": 873,
     "blind": 129,
     "pann": 185,
     "ruliweb": 300,
-    "dcinside": 871,
     "bobaedream": 96,
     "dogdrip": 206,
+    "inven": 247,
     "clien": 82,
     "mlbpark": 408,
-    "inven": 247,
     "x": 3368,
     "tiktok": 691,
     "instagram": 941,
@@ -113,12 +113,12 @@
       "fmkorea": 1
     },
     "tvxq": {
+      "dcinside": 40,
       "tiktok": 12,
       "x": 183,
       "pann": 4,
       "blind": 4,
       "ruliweb": 9,
-      "dcinside": 40,
       "bobaedream": 2,
       "inven": 3,
       "clien": 1,
@@ -360,6 +360,7 @@
       "mlbpark": 3
     },
     "psy": {
+      "mlbpark": 3,
       "blind": 2,
       "pann": 3,
       "ruliweb": 3,
@@ -368,7 +369,6 @@
       "dogdrip": 3,
       "inven": 3,
       "clien": 2,
-      "mlbpark": 3,
       "tiktok": 3,
       "x": 12
     },
@@ -556,19 +556,20 @@
       "inven": 2
     },
     "crayon-pop": {
-      "tiktok": 4,
-      "x": 14,
       "blind": 1,
       "pann": 1,
       "ruliweb": 1,
-      "dcinside": 2,
+      "dcinside": 3,
       "bobaedream": 2,
       "dogdrip": 2,
       "inven": 1,
       "clien": 1,
-      "mlbpark": 1
+      "mlbpark": 1,
+      "tiktok": 4,
+      "x": 14
     },
     "bestie": {
+      "dcinside": 1,
       "tiktok": 3,
       "x": 12
     },
@@ -689,12 +690,12 @@
     }
   },
   "itemsWithMediaByPlatform": {
+    "dcinside": 57,
+    "ruliweb": 78,
     "bobaedream": 72,
     "dogdrip": 107,
-    "ruliweb": 78,
     "clien": 32,
     "mlbpark": 57,
-    "dcinside": 56,
     "pann": 27,
     "inven": 64,
     "x": 1773,
