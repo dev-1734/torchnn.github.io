@@ -1,19 +1,19 @@
 {
   "status": "ok",
   "feed": "evidence.json",
-  "feedSha256": "2d7c7dedf4ce9e3bdc80f35fe8752f2120f64023430d0d7478fcae4be12ea234",
+  "feedSha256": "5689783c07df5867af72c6f97109787580d94cd7d72dea6d46490e70379ab98f",
   "schemaVersion": 2,
-  "generatedAt": "2026-11-23T07:32:13.810569+00:00",
-  "itemCount": 7815,
-  "sourceItemCount": 8072,
+  "generatedAt": "2026-11-23T22:05:38.456650+00:00",
+  "itemCount": 7818,
+  "sourceItemCount": 8075,
   "platformCounts": {
+    "dcinside": 981,
+    "bobaedream": 109,
+    "inven": 327,
+    "clien": 117,
     "blind": 174,
     "pann": 252,
     "ruliweb": 368,
-    "dcinside": 979,
-    "bobaedream": 109,
-    "inven": 326,
-    "clien": 117,
     "mlbpark": 492,
     "x": 3384,
     "dogdrip": 237,
@@ -68,11 +68,11 @@
       "fmkorea": 1
     },
     "cortis": {
+      "inven": 2,
       "blind": 5,
       "pann": 16,
       "ruliweb": 7,
       "dcinside": 52,
-      "inven": 2,
       "clien": 4,
       "mlbpark": 17,
       "dogdrip": 2,
@@ -83,8 +83,8 @@
       "fmkorea": 1
     },
     "seventeen": {
-      "blind": 1,
       "pann": 14,
+      "blind": 1,
       "ruliweb": 12,
       "dcinside": 51,
       "bobaedream": 2,
@@ -98,11 +98,11 @@
       "fmkorea": 1
     },
     "stray-kids": {
-      "bobaedream": 2,
       "blind": 3,
-      "pann": 6,
-      "dcinside": 35,
-      "inven": 4,
+      "pann": 7,
+      "dcinside": 36,
+      "bobaedream": 2,
+      "inven": 5,
       "clien": 3,
       "ruliweb": 5,
       "dogdrip": 4,
@@ -113,9 +113,9 @@
       "fmkorea": 1
     },
     "tvxq": {
-      "dcinside": 42,
+      "dcinside": 43,
       "bobaedream": 2,
-      "inven": 5,
+      "inven": 6,
       "clien": 2,
       "blind": 5,
       "pann": 4,
@@ -664,10 +664,10 @@
       "dogdrip": 1
     },
     "boynextdoor": {
+      "bobaedream": 1,
       "blind": 1,
       "pann": 4,
       "dcinside": 5,
-      "bobaedream": 1,
       "inven": 1,
       "clien": 1,
       "mlbpark": 3,
@@ -691,13 +691,13 @@
     }
   },
   "itemsWithMediaByPlatform": {
-    "pann": 65,
-    "ruliweb": 130,
+    "dcinside": 114,
     "bobaedream": 83,
-    "inven": 115,
     "clien": 58,
+    "pann": 65,
+    "inven": 115,
+    "ruliweb": 130,
     "x": 1784,
-    "dcinside": 112,
     "mlbpark": 98,
     "dogdrip": 125,
     "tiktok": 691,
